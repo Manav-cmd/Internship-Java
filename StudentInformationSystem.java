@@ -167,6 +167,5 @@ public class StudentInformationSystem {
 
         } while (choice != 6);
 
-        sc.close();
     }
 }
