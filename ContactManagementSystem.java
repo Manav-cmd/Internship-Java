@@ -166,6 +166,5 @@ public class ContactManagementSystem {
 
         } while (choice != 6);
 
-        sc.close();
     }
 }
