@@ -101,6 +101,5 @@ public class Calculator {
 
         } while (choice != 9);
 
-        sc.close();
     }
 }
